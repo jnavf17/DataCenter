@@ -1,0 +1,314 @@
+{
+  "config": {
+    "inicializado": true
+  },
+  "eventos": {
+    "-P6ZTiWzFuMV9FxdbOvX": {
+      "fecha": 1794834622801,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZU0yNygkS46PQMuZc": {
+      "fecha": 1794834702444,
+      "texto": "agregó al usuario operador1@datacenter.cl (Operador)",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZUcEz6TXMTUX94h2l": {
+      "fecha": 1794834859299,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZUdDFtF4UMgkNfgIr": {
+      "fecha": 1794834863271,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZUj07hpUOAYxN02u0": {
+      "fecha": 1794834887001,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZUjzpAJyKkZ9_SjPc": {
+      "fecha": 1794834891045,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZUtIZNOo3yh4m5uX2": {
+      "fecha": 1794834929162,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZV42JwDFh9qzU-lLU": {
+      "fecha": 1794834977259,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZV50vpUv1rmtL0c3i": {
+      "fecha": 1794834981273,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVDeIF44n6VzNNEpk": {
+      "fecha": 1794835016613,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVEcwQp1AFWcw_OPb": {
+      "fecha": 1794835020632,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVIhaxhUIYLkyfAVa": {
+      "fecha": 1794835037303,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVJgSE-cPJzmIiBCp": {
+      "fecha": 1794835041341,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVMNs8dz9aQhKyZtZ": {
+      "fecha": 1794835052359,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVNMTeHApOyJiDow_": {
+      "fecha": 1794835056384,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVWeSyHdyONXCdgpk": {
+      "fecha": 1794835094456,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVo-bpnaTCqyAqXIZ": {
+      "fecha": 1794835170371,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVoyzUsU1xPsYaM9A": {
+      "fecha": 1794835173601,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVqY4DVx63AtYcK4g": {
+      "fecha": 1794835179991,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZVrWj5td_gptuw5VG": {
+      "fecha": 1794835184020,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZW-orZKajqf-NRbx6": {
+      "fecha": 1794835222100,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZXl-S87mxjs29UJur": {
+      "fecha": 1794835682500,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZXlz-N5LaNQUSdMoA": {
+      "fecha": 1794835685613,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZXvH5GCg6YaPm07IH": {
+      "fecha": 1794835723698,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZYGlIQ7YbXo7efaAT": {
+      "fecha": 1794835815735,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZYIpwE8otqCj6lRPd": {
+      "fecha": 1794835824227,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZYJtVIVm6D7Kl5a2I": {
+      "fecha": 1794835829462,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZYKt4rdVFrh-woUKM": {
+      "fecha": 1794835832660,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZYUBEvnvjTJLUddbP": {
+      "fecha": 1794835870754,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZZBmKsyeMkORrQJW9": {
+      "fecha": 1794836058297,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZZClgVG9zRCfaAENv": {
+      "fecha": 1794836061508,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZZM3oFwdkHpLe11wk": {
+      "fecha": 1794836099593,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZaJgbFfhTt1BXa5lr": {
+      "fecha": 1794836614136,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZaK2tNGiZl3AUrUn7": {
+      "fecha": 1794836616752,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZaKf8_N28JNC_JmA1": {
+      "fecha": 1794836618142,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZaTyFTdZRJrzfzFct": {
+      "fecha": 1794836656229,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6Zb9ciZcdRcluCk7Td": {
+      "fecha": 1794836835117,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZbAY4Q1de4AlIkoJ2": {
+      "fecha": 1794836839951,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZbBWX5QiA5Cl9e4t4": {
+      "fecha": 1794836842849,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZbKFBDKc3EQQwNTF7": {
+      "fecha": 1794836878589,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZbLDujGqjEHy7PK2V": {
+      "fecha": 1794836882637,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZbUXHJ7pU23qq6sxl": {
+      "fecha": 1794836920724,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZzB_Wc75YVdAN6OeM": {
+      "fecha": 1794843134528,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6ZzXXz0RldXbYf-56k": {
+      "fecha": 1794843225205,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZzYWBeTjewoju_Tyx": {
+      "fecha": 1794843228458,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6ZzgoQBQGy3rE_niZs": {
+      "fecha": 1794843266655,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_-NsG107ViGp6NGrN": {
+      "fecha": 1794843447917,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_-OpBRoH0lVL9BJHH": {
+      "fecha": 1794843451055,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_-Y7_gUEZdfW5yy08": {
+      "fecha": 1794843489161,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_0TMltfa7N5G0Smpv": {
+      "fecha": 1794843732627,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6_0U6y4j1N7MoYlAgQ": {
+      "fecha": 1794843734750,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_0U9aUd5PT8wle24u": {
+      "fecha": 1794843734906,
+      "texto": "Wi-Fi: CONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_0UAHcZFgn4Vi61wr": {
+      "fecha": 1794843734930,
+      "texto": "Wi-Fi: CONECTADO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6_13sLZ55gtQkd0z1H": {
+      "fecha": 1794843890213,
+      "texto": "Administrador AUTORIZÓ la apertura",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_2VjCCa5BXI7n4QmT": {
+      "fecha": 1794844266483,
+      "texto": "Módulo Bluetooth desvinculado por el Administrador",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_AOUFkpd71a0mWe3p": {
+      "fecha": 1794846333776,
+      "texto": "Wi-Fi: REINTENTANDO",
+      "usuario": "operador1@datacenter.cl"
+    },
+    "-P6_APi56k5NZapEWxOg": {
+      "fecha": 1794846826449,
+      "texto": "Wi-Fi: CONECTANDO",
+      "usuario": "admin@datacenter.cl"
+    },
+    "-P6_AXl_7HJ0W_y4p8CC": {
+      "fecha": 1794846371096,
+      "texto": "Wi-Fi: DESCONECTADO",
+      "usuario": "operador1@datacenter.cl"
+    }
+  },
+  "usuarios": {
+    "1adrmWGKxkaqTrFysTgceePPfBD2": {
+      "activo": true,
+      "correo": "admin2@datacenter.cl",
+      "rol": "ADMIN"
+    },
+    "NSXlj4MRppU1RAHblROce4ehfkK2": {
+      "activo": true,
+      "correo": "operador1@datacenter.cl",
+      "rol": "OPERADOR"
+    },
+    "sr9K3pYsprbewZA3CzsfajhWirY2": {
+      "activo": true,
+      "correo": "admin@datacenter.cl",
+      "rol": "ADMIN"
+    }
+  }
+}

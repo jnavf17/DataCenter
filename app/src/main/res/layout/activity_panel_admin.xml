@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Panel del Administrador"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Usuario"
+            android:textSize="14sp" />
+
+        <!-- Servidor Wi-Fi -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Servidor Wi-Fi (oficina)"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvEstadoWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wi-Fi: DESCONECTADO"
+            android:textColor="#D32F2F"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tvIp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IP de este equipo: -"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/etClaveEnlace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Clave de enlace (mín. 12 caracteres)"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnIniciar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Iniciar servidor" />
+
+        <Button
+            android:id="@+id/btnDetener"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Detener servidor" />
+
+        <!-- Permisos -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Permisos del operador"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnAutorizar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Autorizar apertura" />
+
+        <Button
+            android:id="@+id/btnRevocar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Revocar apertura" />
+
+        <Button
+            android:id="@+id/btnBloqueo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BLOQUEO TOTAL" />
+
+        <Button
+            android:id="@+id/btnNuevoHc05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Autorizar nuevo módulo Bluetooth" />
+
+        <!-- Registro -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Últimos eventos (tiempo real)"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvUltimos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sin eventos todavía"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/btnRegistro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Ver registro completo" />
+
+        <Button
+            android:id="@+id/btnUsuarios"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gestionar usuarios" />
+
+        <Button
+            android:id="@+id/btnClave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cambiar mi clave" />
+
+        <Button
+            android:id="@+id/btnCerrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cerrar sesión" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Panel del Operador"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Usuario"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvPermiso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Apertura NO autorizada (la define el administrador)"
+            android:textColor="#D32F2F"
+            android:textSize="16sp" />
+
+        <!-- Wi-Fi hacia el administrador -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Enlace Wi-Fi con el administrador"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvEstadoWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wi-Fi: DESCONECTADO"
+            android:textColor="#D32F2F"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/etIp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="IP del administrador"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etClaveEnlace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Clave de enlace (mín. 12 caracteres)"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnWifiConectar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Conectar al administrador" />
+
+        <Button
+            android:id="@+id/btnWifiDesconectar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desconectar Wi-Fi" />
+
+        <!-- Bluetooth hacia la puerta -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Enlace Bluetooth con la puerta"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvEstadoBt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bluetooth: DESCONECTADO"
+            android:textColor="#D32F2F"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/spDispositivos"
+            android:layout_width="match_parent"
+            android:layout_height="48dp" />
+
+        <Button
+            android:id="@+id/btnBtConectar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Conectar a la puerta" />
+
+        <Button
+            android:id="@+id/btnBtDesconectar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desconectar Bluetooth" />
+
+        <!-- Control de la puerta -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Control de la puerta"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnAbrir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Abrir puerta" />
+
+        <Button
+            android:id="@+id/btnCerrarPuerta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cerrar puerta" />
+
+        <Button
+            android:id="@+id/btnEstado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Consultar estado" />
+
+        <Button
+            android:id="@+id/btnRegistro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Ver registro de eventos" />
+
+        <Button
+            android:id="@+id/btnClave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cambiar mi clave" />
+
+        <Button
+            android:id="@+id/btnCerrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cerrar sesión" />
+
+    </LinearLayout>
+</ScrollView>
